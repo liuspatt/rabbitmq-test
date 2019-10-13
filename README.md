@@ -1,0 +1,2 @@
+# rabbitmq-test
+poc rabbitmq
