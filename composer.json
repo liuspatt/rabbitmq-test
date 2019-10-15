@@ -1,0 +1,8 @@
+{
+  "config": {
+    "vendor-dir": "libs/vendor"
+  },
+  "require": {
+    "php-amqplib/php-amqplib": "^2.10"
+  }
+}
